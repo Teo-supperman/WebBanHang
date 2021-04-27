@@ -1,3 +1,5 @@
+Project dược phát triển bằng ngôn ngữ java, phát triển theo mô hình MVC, sử dụng framework spring, dùng sql server.
+
 Tên thành viên trong nhóm.
 + Nguyễn Văn Hoàng 	MSSV: 17089671
 + Nguyễn Đình Quốc.	MSSV: 17071421
